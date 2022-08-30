@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("master代码：5555555555555555555555555");
 
         System.out.println("这个代码新增，推到github上");
+        System.out.println("提交备注6666666666");
     }
 }
